@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently **an Undergraduate in Computer Science at Informatic Institute of Technology**
 
-- 📫 How to reach me **ihanhansaja14@gmail.com**
-
 - ⚡ Fun fact **Call me as Mellow :P**
 
 <h3 align="left">Connect with me:</h3>
