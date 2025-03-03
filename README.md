@@ -7,7 +7,6 @@
 </p>
 
 <p align="center"><b>🔭 I’m currently an Undergraduate in Computer Science at Informatic Institute of Technology</b></p> 
-<p align="center"><b>⚡ Fun fact Call me as Mellow</b></p>
 
 
 <h4 align="center">Languages and Tools:</h4>
